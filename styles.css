@@ -17,7 +17,6 @@ body,html{
     align-items: center;
     padding: 40px;
     gap: 100px;
-    border: 1px solid red;
 }
 
 .logo-area{
@@ -27,11 +26,9 @@ body,html{
     position: fixed;
     left: 2%;
     gap: 20px;
-    border: 1px solid red;
 }
 
 .buttons-area{
-    border:1px solid red;
     display: flex;
     gap: 20px;
     position: fixed;
